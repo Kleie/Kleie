@@ -7,7 +7,7 @@ Sou novo nessa area de programação, estudo a pouco tempo mas tenho uma base bo
 Pretendo me aperfeiçoar em oque ja sei e aprender muito mais, acredite nisso PORQUE TENHO ❤ POR PROGRAMAR!
 
 - 🔭  A procura de um  emprego/estagio/OPORTUNIDADE DE BRILHAR!
-- 🌱 Habilidades: Html, css, JavaScript, TypeScript, React, NextJs e Python
+- 🌱 Habilidades: Html, Css, JavaScript, TypeScript, React, NextJs e Python
 - 📫 Entre em contato comigo!
 -     Discord: !!#0063
 -     Instagram: eduard.zzz
