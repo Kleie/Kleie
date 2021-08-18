@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello Ladys and Gentlemans!
 
-<!--
-**Kleie/Kleie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduardo Araujo De Azeredo e tenho 22 anos.
 
-Here are some ideas to get you started:
+Sou novo nessa area de programação, estudo a pouco tempo mas tenho uma base boa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pretendo me aperfeiçoar em oque ja sei e aprender muito mais, acredite nisso PORQUE TENHO ❤ POR PROGRAMAR!
+
+- 🔭  A procura de um  emprego/estagio/OPORTUNIDADE DE BRILHAR!
+- 🌱 Habilidades: Html, css, JavaScript, TypeScript, React, NextJs e Python
+- 📫 Entre em contato comigo!
+-     Discord: !!#0063
+-     Instagram: eduard.zzz
+
+
+
