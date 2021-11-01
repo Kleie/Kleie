@@ -10,7 +10,6 @@ Pretendo me aperfeiçoar em o que ja sei e aprender muito mais, acredite nisso P
 - 🌱 Habilidades: Html, Css, JavaScript, TypeScript, React, NextJs e Python
 - 📫 Entre em contato comigo!
 -     Discord: !!#0063
--     Instagram: eduard.zzz
 
 
 
